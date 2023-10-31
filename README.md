@@ -1,1 +1,1 @@
-![](https://digest.gasinski.dev/svg/Jopat2409)
+![](https://digest.gasinski.dev/svg/Jopat2409?)
