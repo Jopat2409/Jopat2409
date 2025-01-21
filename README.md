@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Falcon Ground Control System](https://fgcs.projectfalcon.uk)
 
-- 🌱 I’m currently learning **Transformer fine-tuning using pytorch**
+- 🌱 I’m currently learning **how to fine-tune transformers for Named Entity Recognition tasks**
 
 - 📫 How to reach me **joantpat@gmail.com**
 
