@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
-<h3 align="center">Computer Science Bsc @ Uni of Sheffield</h3>
+<h3 align="center">Developer @ Simunix</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jopat2409&label=Profile%20views&color=0e75b6&style=flat" alt="jopat2409" /> </p>
 
